@@ -14,17 +14,17 @@ while me.awake():
 - Thanks to @fireship and @Graven for their amazing work.
 - And the most importantly... "I'M FRENCH 🥖 OUI OUI BAGUETTE"
 ## Skills at this time:
-> Python
+> **Python**
 > 
-> C#
+> **C#**
 >
-> [Unity Game Engine](https://learn.unity.com/) with C#
+> **Unity Game Engine** with C#
 > 
-> Java
+> **Java**
 > 
-> GDscript (the language of The Godot game engine)
+> **GDscript** (the language of The Godot game engine)
 >
-> [Blender](https://www.blender.org/) "pseudo" artist
+> **Blender** "pseudo" artist
 ## To do :
 - [ ] **Learn JavaScript and TypeScript**
 - [ ] **Learn C++**
