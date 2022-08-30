@@ -1,8 +1,13 @@
 # 👋 Hi, I’m @Souleymeine, a 15 years old developer (yup) trying to have fun with coding and discovering the internet.
+
+---
+
 ```python
 while me.awake():
   me.code()
 ```
+
+---
 
 - 👀 I’m interested in gamedev, web application, game developement, technologies, visual art and much more! I’m currently learning discord developement tools, JavaScript, creating my own discord bot (private for my discord server), and building a Minecraft server with my own mod.
 - 🚽 I have 2 YouTube channel whom sucks more than the other, I don't know how lol
