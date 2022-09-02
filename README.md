@@ -12,19 +12,19 @@ while me.awake():
 - 👀 I’m interested in gamedev, web application, game developement, technologies, visual art and much more! I’m currently learning discord developement tools, JavaScript, creating my own discord bot (private for my discord server), and building a Minecraft server with my own mod.
 - 🚽 I have 2 YouTube channel whom sucks more than the other, I don't know how lol
 - Thanks to @fireship and @Graven for their amazing work.
-- And the most importantly... "I'M FRENCH 🥖 OUI OUI BAGUETTE"
+- And the most importantly... `I'M FRENCH 🥖 OUI OUI BAGUETTE`
 ## Skills at this time:
-> **Python**
+>- [x] **Python**
 > 
-> **C#**
+>- [x] **C#**
 >
-> **Unity Game Engine** with C#
+>- [x] **Unity Game Engine** with C#
 > 
-> **Java**
+>- [x] **Java**
 > 
-> **GDscript** (the language of The Godot game engine)
+>- [x] **GDscript** (the language of The Godot game engine)
 >
-> **Blender** "pseudo" artist
+>- [x] **Blender** "pseudo" artist
 ## To do :
 - [ ] **Learn JavaScript and TypeScript**
 - [ ] **Learn C++**
