@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @Souleymeine
-### A 15 years old socialy akward introvert french dude who likes history, photography, running, languages, memes and programming.
+### A 15 years old socialy akward introvert perfectionist french dude who likes history, photography, running, languages, memes and programming.
 
 - I'm currently *trying* to build a website which will contain all of my activities, projects, etc. My autobiography for short.
 - Fun fact : **Souleymeine** is my name, not a pseudo. It stands for the correct pronounciation of "Souleymane", in arabic "**سُلَيْمَان**". May be hard to pronounce for english natives x')
