@@ -6,7 +6,7 @@
 - I try to be productive as much as I can, but I've got a lot of difficulties those time. Y'know, teenage years... I'll be more active as 2023 passes. I'll keep you up to date.
 
 ## Medias :
-- Almost dead, but might come back : [YouTube Channel](https://www.youtube.com/channel/UCagxdKtjEFoK984fXYpZsvw "idk")
+- Almost dead, but might come back : [YouTube Channel](https://www.youtube.com/c/Souleymeine "idk")
 - For artworks : [Instagram](https://www.instagram.com/souleymeine_/ "More personal")
 - For fun : [My Twitch](https://www.twitch.tv/souleymeine "Also dead")
 
