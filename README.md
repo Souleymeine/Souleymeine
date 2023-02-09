@@ -1,48 +1,14 @@
-# 👋 Hi, I’m @Souleymeine, a 15 years old developer (yup) trying to have fun with coding and discovering the internet.
+# 👋 Hi, I’m @Souleymeine
+### A 15 years old socialy akward introvert french dude who likes history, photography, running, languages, memes and programming.
 
----
+- I'm currently *trying* to build a website which will contain all of my activities, projects, etc. My autobiography for short.
+- Fun fact : **Souleymeine** is my name, not a pseudo. It stands for the correct pronounciation of "Souleymane", in arabic "**سُلَيْمَان**". May be hard to pronounce for english natives x')
+- I try to be productive as much as I can, but I've got a lot of difficulties those time. Y'know, teenage years... I'll be more active as 2023 passes. I'll keep you up to date.
 
-```python
-while me.awake():
-  me.code()
-```
-
----
-
-- 👀 I’m interested in gamedev, web application, game development, technologies, visual art and much more! I’m currently learning discord development tools, JavaScript, creating my own discord bot (private for my discord server), and building a Minecraft server with my own mod.
-- 🚽 I have 2 YouTube channel who sucks more than the other, I don't know how lol
-- Thanks to @fireship and @Graven for their amazing work.
-- And the most importantly... `I'M FRENCH 🥖 OUI OUI BAGUETTE`
-## Skills at this time:
->- [x] **Python**
-> 
->- [x] **C#**
->
->- [x] **Unity Game Engine** with C#
-> 
->- [x] **Java**
-> 
->- [x] **GDscript** (the language of The Godot game engine)
->
->- [x] **Blender** "pseudo" artist
-## To do :
-- [ ] **Learn JavaScript and TypeScript**
-- [ ] **Learn C++**
-- [ ] Finish my discord bot
-- [ ] Create my Minecraft server
-- [ ] Start my second channel to talk about development
-- [ ] Write a novel (don't make fun of me, you'll see... I hope)
-- [ ] Speak Arabic
-- [ ] Speak Spanish
-- [ ] Improve my poor English
 ## Medias :
-- Not recommended : [YouTube Channel](https://www.youtube.com/channel/UCagxdKtjEFoK984fXYpZsvw "To avoid")
-- for artworks : [Instagram](https://www.instagram.com/souleymeine_/ "for art")
-- for fun : [My Twitch](https://www.twitch.tv/souleymeine)
-
----
-
-### **Not super active those time**
+- Almost dead, but might come back : [YouTube Channel](https://www.youtube.com/channel/UCagxdKtjEFoK984fXYpZsvw "idk")
+- For artworks : [Instagram](https://www.instagram.com/souleymeine_/ "More personal")
+- For fun : [My Twitch](https://www.twitch.tv/souleymeine "Also dead")
 
 <!---
 Souleymeine/Souleymeine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
