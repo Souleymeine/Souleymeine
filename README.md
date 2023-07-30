@@ -1,8 +1,8 @@
-# 👋 Hey not Vsauce, @Souleymeine here.
+# 👋 Hey not Vsauce, @Souleymeine here. (How did you get here?)
 ### Socially awkward French dude who likes history, photography, running, languages, memes and programming.
 
 - I'm currently *trying* to build a website which will contain all of my activities, projects, etc. My autobiography for short.
-- Fun fact : **Souleymeine** is my name, not a pseudo. It stands for the correct pronounciation of "Souleymane", in arabic "**سُلَيْمَان**". May be hard to pronounce for english natives x')
+- Fun fact : **Souleymeine** is my name, not a pseudo. It stands for the correct pronounciation of "Souleymane", in Arabic "**سُلَيْمَان**". May be hard to pronounce for english natives though.
 - I try to be productive as much as I can, but I've got a lot of difficulties those time. I'll be more active as the year passes. I'll keep you up to date (someone ever comes here).
 
 ## Medias :
